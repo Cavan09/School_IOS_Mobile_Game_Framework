@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2084007-F936-4AAE-B226-E33628BEE973</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GameDevFramework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>508A5931-1338-42AA-BED9-94EF809BF787</key>
+		<string>https://github.com/macp0108/GAM1532-Final-Cavan-Rebecca.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GameDevFramework.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>508A5931-1338-42AA-BED9-94EF809BF787</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/macp0108/GAM1532-Final-Cavan-Rebecca.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>508A5931-1338-42AA-BED9-94EF809BF787</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>508A5931-1338-42AA-BED9-94EF809BF787</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GAM1532-Final-Cavan-Rebecca</string>
+		</dict>
+	</array>
+</dict>
+</plist>
